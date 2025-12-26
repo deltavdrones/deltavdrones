@@ -34,4 +34,4 @@ O **Delta V Drones** é movido pelas seguintes pessoas:
 * **Ana (Benny) Soares** - *Líder de Visão Computacional* - [@ana-soares](https://www.linkedin.com/in/ana-soares-absn1/)
 * **Pedro Gabriel** - *Líder de Controle e Simulação* - [@pedro-gabriel-silva](https://www.linkedin.com/in/pedro-gabriel-silva-8541b3261/)
 * **Gilvan Neto** - *Líder de Sistemas Embarcados* - [@gilvan-neto](https://www.linkedin.com/in/gilvan-neto-51124a2b0/)
-* **??** - *Líder de Aerodesign* - [@luizartnascimento](https://www.linkedin.com/in/luizartnascimento/)
+* **Luiz Arthur** - *Líder de Aerodesign* - [@luizartnascimento](https://www.linkedin.com/in/luizartnascimento/)
