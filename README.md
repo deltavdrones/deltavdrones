@@ -30,8 +30,8 @@ O **Delta V Drones** é movido pelas seguintes pessoas:
 
 * **George Azevedo** - *Orientador* - [@george-azevedo](https://www.linkedin.com/in/george-azevedo-01970674/)
 * **Carolyne Borges** - *Líder de Gestão* - [@carolyne-borges](https://www.linkedin.com/in/carolyne-borges-476a14371/)
-* **Eliton Sena** - *Líder Operacional e Líder de Sensores e Navegação* - [@elitonsena](https://www.linkedin.com/in/elitonsena/)
-* **Ana (Benny) Soares** - *Líder de Visão Computacional* - [@ana-soares](https://www.linkedin.com/in/ana-soares-absn1/)
+* **Eliton Sena** - *Líder Operacional e Líder de Sensores* - [@elitonsena](https://www.linkedin.com/in/elitonsena/)
+* **Ana (Benny) Soares** - *Líder de Visão Computacional e Navegação* - [@ana-soares](https://www.linkedin.com/in/ana-soares-absn1/)
 * **Pedro Gabriel** - *Líder de Controle e Simulação* - [@pedro-gabriel-silva](https://www.linkedin.com/in/pedro-gabriel-silva-8541b3261/)
 * **Gilvan Neto** - *Líder de Sistemas Embarcados* - [@gilvan-neto](https://www.linkedin.com/in/gilvan-neto-51124a2b0/)
-* **Luiz Arthur** - *Líder de Aerodesign* - [@luizartnascimento](https://www.linkedin.com/in/luizartnascimento/)
+* **João Pedro** - *Líder de Estruturas e Desempenho*
