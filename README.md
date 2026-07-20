@@ -16,7 +16,7 @@ Somos uma equipe de competição da **Universidade de Pernambuco (UPE - POLI)**,
 
 O projeto é organizado em setores multidisciplinares, onde cada equipe é responsável por uma parte crucial do nosso drone.
 
-* **Aerodesign:** Responsável pelo projeto estrutural, aerodinâmico e pela fabricação da aeronave.
+* **Estruturas e Desempenho:** Responsável pelo projeto estrutural, aerodinâmico e pela fabricação da aeronave.
 * **Visão Computacional:** Desenvolve algoritmos para que o drone possa "enxergar" e interpretar o ambiente, permitindo a navegação autônoma e a execução de tarefas.
 * **Sistemas Embarcados:** Cuida do "cérebro" do drone, integrando hardware e software para processar dados e comandar os atuadores.
 * **Sensores e Navegação:** Seleciona e integra os sensores que coletam os dados essenciais para o voo e a operação do drone.
