@@ -1,4 +1,4 @@
-![Imagem do nosso Drone, LOGAN](HeaderLinkedIn.png)
+![Imagem do nosso Drone, LOGAN](header.png)
 
 <h1><img src="icon.png" alt="Logo Delta V Drones" width="20px" style="vertical-align: middle;"> Bem-vindo(a) a Delta V Drones!</h1>
 
