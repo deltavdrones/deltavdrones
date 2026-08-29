@@ -31,8 +31,9 @@ O **Delta V Drones** é movido pelas seguintes pessoas:
 * **George Azevedo** - *Orientador* - [@george-azevedo](https://www.linkedin.com/in/george-azevedo-01970674/)
 * **Carolyne Borges** - *Líder de Gestão* - [@carolyne-borges](https://www.linkedin.com/in/carolyne-borges-476a14371/)
 * **Eliton Sena** - *Líder Operacional* - [@elitonsena](https://www.linkedin.com/in/elitonsena/)
-* **Ana Soares** - *Líder de Software e Navegação e Controle e Simulação* - [@ana-soares](https://www.linkedin.com/in/ana-soares-absn1/)
+* **Ana Soares** - *Líder de Software e Navegação* - [@ana-soares](https://www.linkedin.com/in/ana-soares-absn1/)
+* **Pedro Gabriel** - *Líder de Controle e Simulação* - [@pedro-gabriel-silva](https://www.linkedin.com/in/pedro-gabriel-silva-8541b3261/)
 * **Danielle Nunes** - *Líder de Visão Computacional* - [@danielle-nunes-sn](https://www.linkedin.com/in/danielle-nunes-sn/)
-* **Gilvan Neto** - *Líder de Sistemas Embarcados* - [@gilvan-neto](https://www.linkedin.com/in/gilvan-neto-51124a2b0/)
+* **Gilvan Neto** - *Líder de Sistemas Embarcados* - [@gilvanroneto](https://www.linkedin.com/in/gilvanroneto/)
 * **João Pedro** - *Líder de Estruturas e Desempenho* - [@ojoaopedrosa](https://www.linkedin.com/in/ojoaopedrosa/)
-<!-- * **Pedro Gabriel** - *Líder de Controle e Simulação* - [@pedro-gabriel-silva](https://www.linkedin.com/in/pedro-gabriel-silva-8541b3261/) -->
+<!--  -->
