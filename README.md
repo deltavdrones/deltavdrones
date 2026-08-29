@@ -1,4 +1,4 @@
-![Imagem do nosso Drone, LOGAN](HeaderLinkedIn.png)
+![Imagem do nosso Drone, LOGAN](header.png)
 
 <h1><img src="icon.png" alt="Logo Delta V Drones" width="20px" style="vertical-align: middle;"> Bem-vindo(a) a Delta V Drones!</h1>
 
@@ -16,11 +16,11 @@ Somos uma equipe de competição da **Universidade de Pernambuco (UPE - POLI)**,
 
 O projeto é organizado em setores multidisciplinares, onde cada equipe é responsável por uma parte crucial do nosso drone.
 
-* **Estruturas e Desempenho:** Responsável pelo projeto estrutural, aerodinâmico e pela fabricação da aeronave.
-* **Visão Computacional:** Desenvolve algoritmos para que o drone possa "enxergar" e interpretar o ambiente, permitindo a navegação autônoma e a execução de tarefas.
-* **Sistemas Embarcados:** Cuida do "cérebro" do drone, integrando hardware e software para processar dados e comandar os atuadores.
-* **Sensores e Navegação:** Seleciona e integra os sensores que coletam os dados essenciais para o voo e a operação do drone.
-* **Controle e Simulação:** Cria os modelos matemáticos e as lógicas de controle que garantem um voo estável e preciso, além de realizar simulações para prever e validar o comportamento da aeronave.
+* **Estruturas e Desempenho:** Responsável pelo projeto estrutural e aerodinâmico da aeronave, incluindo dimensionamento, fabricação e análise de desempenho.
+* **Sistemas Embarcados:** Responsável pela integração de hardware embarcado da aeronave, incluindo eletrônica, comunicação e interface com sensores e atuadores.
+* **Software e Navegação:** Responsável pelo desenvolvimento da arquitetura de software e dos sistemas que permitem ao drone compreender o ambiente, tomar decisões e executar missões de forma autônoma. **A área é dividida em duas subáreas:**
+  * **Visão Computacional:** Desenvolve os algoritmos de percepção responsáveis por processar imagens e extrair informações do ambiente, como detecção, identificação e localização de alvos relevantes para a navegação.
+  * **Controle e Simulação:** Desenvolve os modelos, algoritmos e estratégias de controle responsáveis pela estabilização, comportamento e movimentação da aeronave, além de utilizar ambientes de simulação para desenvolver, testar e validar as soluções antes da aplicação em voo real.
 
 ---
 
@@ -30,8 +30,10 @@ O **Delta V Drones** é movido pelas seguintes pessoas:
 
 * **George Azevedo** - *Orientador* - [@george-azevedo](https://www.linkedin.com/in/george-azevedo-01970674/)
 * **Carolyne Borges** - *Líder de Gestão* - [@carolyne-borges](https://www.linkedin.com/in/carolyne-borges-476a14371/)
-* **Eliton Sena** - *Líder Operacional e Líder de Sensores* - [@elitonsena](https://www.linkedin.com/in/elitonsena/)
-* **Ana (Benny) Soares** - *Líder de Visão Computacional e Navegação* - [@ana-soares](https://www.linkedin.com/in/ana-soares-absn1/)
+* **Eliton Sena** - *Líder Operacional* - [@elitonsena](https://www.linkedin.com/in/elitonsena/)
+* **Ana Soares** - *Líder de Software e Navegação* - [@ana-soares](https://www.linkedin.com/in/ana-soares-absn1/)
 * **Pedro Gabriel** - *Líder de Controle e Simulação* - [@pedro-gabriel-silva](https://www.linkedin.com/in/pedro-gabriel-silva-8541b3261/)
+* **Danielle Nunes** - *Líder de Visão Computacional* - [@danielle-nunes-sn](https://www.linkedin.com/in/danielle-nunes-sn/)
 * **Gilvan Neto** - *Líder de Sistemas Embarcados* - [@gilvanroneto](https://www.linkedin.com/in/gilvanroneto/)
-* **João Pedro** - *Líder de Estruturas e Desempenho*
+* **João Pedro** - *Líder de Estruturas e Desempenho* - [@ojoaopedrosa](https://www.linkedin.com/in/ojoaopedrosa/)
+<!--  -->
